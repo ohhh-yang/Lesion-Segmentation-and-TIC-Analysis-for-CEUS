@@ -1,0 +1,7 @@
+path: ./datasets/thyroid
+train: qinzhou1
+val: qinzhou2
+test: hunan
+
+names:
+  0: thyroid
