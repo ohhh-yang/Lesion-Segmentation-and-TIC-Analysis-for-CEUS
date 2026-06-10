@@ -2,6 +2,9 @@
 ----
 
 Implementation of *A Deep Learning-based Framework for the Malignancy Analysis of Thyroid Lesions in Contrast-Enhanced Ultrasound Videos*
+<p align="center">
+  <img src="images/flow_chart.png" width="80%"/>
+</p>
 
 ## Pre-requisites
 ----
@@ -29,7 +32,8 @@ Segment result:
 </p>
 
 ### Frame Extraction
-The code is being organized and will be uploaded shortly......
+Run `frame_extact_all.ipynb` to analysis all CEUS videos.
+Run `merge_extracted_frames.ipynb` to merge all extracted frames into the `extract-key-frame` folder.
 
 Analysis result:
 <p align="center">
